@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.safetensors
+*.pt
+*.pbix
+*.mp3
+*.wav
+.cache/
+.DS_Store
+.ipynb_checkpoints/
